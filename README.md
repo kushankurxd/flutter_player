@@ -5,7 +5,10 @@ A new Flutter Music Player UI/UX Design.
 
 ##### Screenshots
 ![Screenshot_20200215-232911](https://user-images.githubusercontent.com/37204706/74592967-83f79980-504c-11ea-8a96-ba3d559f7a41.jpg)
+![ezgif com-resize](https://user-images.githubusercontent.com/37204706/74593094-ed2bdc80-504d-11ea-8f2b-a7d2651c047e.gif)
 ![Screenshot_20200215-232919](https://user-images.githubusercontent.com/37204706/74592968-86f28a00-504c-11ea-8a2d-14a40fca4a7d.jpg)
+
+
 
 
 ## Getting Started
