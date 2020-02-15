@@ -1,6 +1,6 @@
 # flutter_player
 
-A new Flutter application.
+A new Flutter Music Player UI/UX Design.
 
 ## Getting Started
 
